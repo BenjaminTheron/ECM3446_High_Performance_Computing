@@ -1,4 +1,4 @@
-# ECM3446 Calculating and Parallelising a Numerical Solution to the Advection Equation
+# ECM3446 Calculating and Parallelising a Numerical Solution to a 2D Advection Equation
 
 ## Introduction
 The intention of this project is to calculate a numerical solution to a two dimensional advection equation that simulates the movement of clouds of material in the atmospheric boundary layer. Furthermore, this program uses OpenMP to parallelise parts of the program to increase efficiency.
